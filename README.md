@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-    <img width="260" height="265" alt="27bd00a4982a5935e6f705299012f394-removebg-preview" src="https://github.com/user-attachments/assets/db50119c-e35c-4909-aecb-0c21f5a80031" />
+    <img width="200" height="205" alt="27bd00a4982a5935e6f705299012f394-removebg-preview-Photoroom" src="https://github.com/user-attachments/assets/5a64ab9b-504d-45cf-8aca-594d3977d504" />
 </div>
 
 <br>
