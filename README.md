@@ -36,14 +36,14 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Julia-Diasz&rank_icon=github&show_icons=true&theme=cobalt&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Julia-Diasz&layout=compact&theme=cobalt&count_private=true&hide=html,css"/>
+  <img width="240" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Julia-Diasz&rank_icon=github&show_icons=true&theme=cobalt&count_private=true"/>
+  <img width="240" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Julia-Diasz&layout=compact&theme=cobalt&count_private=true"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="650" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julia-Diasz&theme=cobalt"/>
+  <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julia-Diasz&theme=cobalt"/>
 </div>
 
 <br>
