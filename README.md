@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá pessoal! Eu sou a Julia Dias! 👋
 
-<!--
-**Julia-Diasz/Julia-Diasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou estagiando
+- 🌱 Tenho interesse em cybersegurança, redes e desenvolvimento de games 
+- 📫 Para contato por e-mail: juliasg.dias@gmail.com
+- 💌 Para contato por LinkedIn: www.linkedin.com/in/júlia-siqueira-godoy-dias
+- 😄 Pronomes: Ela/Dela
 
-Here are some ideas to get you started:
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Julia-Diasz&show_icons=true&theme=cobalt"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Diasz&layout=compact&theme=cobalt"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="150cm" align="right" alt="me_picrew" src="https://cdn.imageurlgenerator.com/uploads/380b6d5f-2903-4af2-b0a9-aad7cf32cc40.gif"/>
+</div>
