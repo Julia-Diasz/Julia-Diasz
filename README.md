@@ -36,8 +36,8 @@
 <br>
 
 <div align="center">
-  <img width="320" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Julia-Diasz&rank_icon=github&show_icons=true&theme=cobalt&count_private=true"/>
-  <img width="320" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Julia-Diasz&layout=compact&theme=cobalt&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Julia-Diasz&rank_icon=github&show_icons=true&theme=cobalt&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Julia-Diasz&layout=compact&theme=cobalt&count_private=true&hide=html,css"/>
 </div>
 
 <br>
