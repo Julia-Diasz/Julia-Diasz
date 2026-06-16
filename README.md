@@ -80,7 +80,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:juliasg.dias@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)]([www.linkedin.com/in/júlia-siqueira-godoy-dias](https://www.linkedin.com/in/j%C3%BAlia-siqueira-godoy-dias?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)]([[https://www.linkedin.com/in/](https://www.linkedin.com/in/júlia-siqueira-godoy-dias/)](https://www.linkedin.com/in/j%C3%BAlia-siqueira-godoy-dias?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 </div>
 
 <br>
